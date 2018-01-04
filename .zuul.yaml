@@ -1,0 +1,5 @@
+- project:
+    name: animationzl/terraform-provider-flexibleengine
+    check-orange:
+      jobs:
+        - terraform-provider-flexibleengine-acceptance-test-orange
